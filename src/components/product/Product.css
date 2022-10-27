@@ -1,0 +1,38 @@
+.product-item {
+    display: flex;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border-bottom: 2px solid lightgrey;
+}
+.p-content {
+    padding-left: 30px;
+}
+.p-content a {
+    color: darkblue;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+}
+.main-button {
+    padding: 10px 25px 10px 25px;
+    background-color: rgba(255, 191, 0, 0.945);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
+.main-button span {
+    padding-left: 5px;
+    text-transform: capitalize;
+}
+.main-button:hover {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+.p-details {
+    display: flex;
+}
+.p-details p {
+    margin-right: 5px;
+    line-height: 0;
+}

@@ -1,0 +1,20 @@
+.dual-container {
+    padding-top: 50px;
+}
+.total-container {
+    padding-top: 50px;
+}
+.total-container h2 {
+    background-color: #333;
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    width: 60px;
+    color: rgb(250, 201, 38);
+    text-align: center;
+    margin: 0 auto;
+}
+.shipping {
+    text-align: center;
+}

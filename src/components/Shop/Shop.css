@@ -1,0 +1,28 @@
+.main-container {
+    display: flex;
+    height: 100%;
+}
+.dual-container {
+    width: 65%;
+    padding: 0 20px 0 40px;
+}
+.total-container {
+    padding: 0 20px 0 20px;
+    margin: 0 auto;
+}
+.total-container h3 {
+    font-size: 18px;
+    color: darkblue;
+    text-transform: capitalize;
+    padding-top: 25px;
+}
+.total-container p {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.line {
+    width: 2px;
+    background-color: rgb(105, 105, 105);
+    height: 100%;
+}
